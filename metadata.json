@@ -1,0 +1,5 @@
+{
+  "name": "Tủ Lạnh Thông Minh",
+  "description": "Ứng dụng gợi ý món ăn thông minh dựa trên nguyên liệu có sẵn trong tủ lạnh của bạn, tích hợp danh sách đi chợ tiện lợi.",
+  "requestFramePermissions": []
+}
